@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         FKS-223 Filler
 // @namespace    http://your.homepage/
-// @version      0.1
+// @version      0.1.1
 // @description  enter something useful
 // @author       You
 // @match        https://zakupki-trunkfks-223.agilevlg-srv.ru/trade/create/Tender
