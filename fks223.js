@@ -25,7 +25,7 @@ $(".js-progress-content").prepend( "<div style='position: fixed;top: 50%; right:
 $("#btnAuction").click(function(){
     var currentDateTime = new Date();        
     var startPrice = 1000;
-    
+    alert(1);
 
     // Общие сведения о закупке.    
     $("#OrderName").focus().val("Конкурс №" + currentDateTime.getTime()).blur().change(); // Наименование закупки
